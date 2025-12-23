@@ -44,7 +44,7 @@ This approach allows learners to focus on learning instead of searching, while f
 
 - **Clean and Responsive User Interface:** Simple, modern design with easy navigation.
 
-- **Bookmarks and Progress Tracking:** Users can save resources and track their learning progress.
+- **Bookmarks:** Users can save learning resources for easy access later.
 
 - **Community Contributions:** Open-source model that allows contributors to add, update, and improve resources.
 
