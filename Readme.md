@@ -52,9 +52,7 @@ This approach allows learners to focus on learning instead of searching, while f
   
 ---
 
-## Future Roadmap
-- User authentication and personalized dashboards  
-- Learning progress analytics  
+## Future Roadmap  
 - Resource ratings and reviews  
 - Admin moderation for content quality  
 - Expansion into additional academic and professional domains  
